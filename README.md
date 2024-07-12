@@ -1,4 +1,9 @@
-## Рад вас приветствовать на своём профиле  [![Github](https://img.shields.io/badge/-Github-090909?style=flat&logo=Github)](https://github.com/ExJHIN)
+<div style="text-align: center;">
+  <h2 style="display: inline-block;">Рад вас приветствовать на своём профиле</h2>
+  <a href="https://github.com/ExJHIN" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/-Github-090909?style=flat&logo=Github" alt="Github">
+  </a>
+</div>
 
 <p style="margin-top: 5px"></p>
 Я Middle Frontend разработчик (React) с более чем 3 годами опыта. Я стремлюсь к профессиональному развитию и готов решать сложные задачи.
