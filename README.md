@@ -1,15 +1,16 @@
 <div style="text-align: center;">
-  <h2 style="display: inline-block;">Рад вас приветствовать на своём профиле</h2>
+  <h2 style="display: inline-block;">Hi there 🤘</h2>
   <a href="https://github.com/ExJHIN" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-Github-090909?style=flat&logo=Github" alt="Github">
   </a>
 </div>
 
 <p style="margin-top: 5px"></p>
-Я Middle Frontend разработчик (React) с более чем 3 годами опыта. Я стремлюсь к профессиональному развитию и готов решать сложные задачи.
+Welcome to my GitHub repository!
+I am a Middle Frontend Developer (React) with 3+ years of experience. I strive for professional development and am ready to solve complex problems.
 
 <p style="margin-top: 5px"></p>
-Вы можете узнать больше о моих проектах ниже
+You can find out more about my projects below
 
 #### :white_check_mark: Have experience with:
 
@@ -49,4 +50,4 @@
  <a href="https://www.postman.com/"><code><img alt="Postman" height="40px" src="https://cdn.svgporn.com/logos/postman-icon.svg" /></code></a>
 </p>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ExJHIN "Написать мне в @Telegram")
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ExJHIN "Write to me at @Telegram")
